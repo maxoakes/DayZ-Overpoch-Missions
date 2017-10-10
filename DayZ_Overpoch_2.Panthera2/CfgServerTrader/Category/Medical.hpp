@@ -1,0 +1,43 @@
+class Category_1025 {				
+class HandChemBlue {	type = "trade_items";	buy[] = {2,"ItemSilverBar"};	sell[] = {1,"ItemSilverBar"};	};
+class HandChemGreen {	type = "trade_items";	buy[] = {2,"ItemSilverBar"};	sell[] = {1,"ItemSilverBar"};	};
+class HandChemRed {	type = "trade_items";	buy[] = {2,"ItemSilverBar"};	sell[] = {1,"ItemSilverBar"};	};
+class FlareGreen_M203 {	type = "trade_items";	buy[] = {6,"ItemSilverBar"};	sell[] = {4,"ItemSilverBar"};	};
+class FlareWhite_M203 {	type = "trade_items";	buy[] = {6,"ItemSilverBar"};	sell[] = {4,"ItemSilverBar"};	};
+class FlareWhite_GP25 {	type = "trade_items";	buy[] = {6,"ItemSilverBar"};	sell[] = {4,"ItemSilverBar"};	};
+class FlareGreen_GP25 {	type = "trade_items";	buy[] = {6,"ItemSilverBar"};	sell[] = {4,"ItemSilverBar"};	};
+class HandRoadFlare {	type = "trade_items";	buy[] = {2,"ItemSilverBar"};	sell[] = {2,"ItemSilverBar"};	};
+};				
+class Category_1026 {				
+class SmokeShell {	type = "trade_items";	buy[] = {5,"ItemSilverBar"};	sell[] = {4,"ItemSilverBar"};	};
+class SmokeShellGreen {	type = "trade_items";	buy[] = {5,"ItemSilverBar"};	sell[] = {4,"ItemSilverBar"};	};
+class SmokeShellRed {	type = "trade_items";	buy[] = {5,"ItemSilverBar"};	sell[] = {4,"ItemSilverBar"};	};
+class 1Rnd_Smoke_M203 {	type = "trade_items";	buy[] = {6,"ItemSilverBar"};	sell[] = {5,"ItemSilverBar"};	};
+class 1Rnd_Smoke_GP25 {	type = "trade_items";	buy[] = {6,"ItemSilverBar"};	sell[] = {5,"ItemSilverBar"};	};
+};				
+class Category_1027 {				
+class ItemAntibiotic {	type = "trade_items";	buy[] = {1,"ItemGoldBar"};	sell[] = {2,"ItemSilverBar10oz"};	};
+class ItemBandage {	type = "trade_items";	buy[] = {2,"ItemSilverBar"};	sell[] = {1,"ItemSilverBar"};	};
+class ItemAntibacterialWipe {	type = "trade_items";	buy[] = {4,"ItemSilverBar"};	sell[] = {1,"ItemSilverBar"};	};
+class bloodBagONEG {	type = "trade_items";	buy[] = {8,"ItemSilverBar"};	sell[] = {6,"ItemSilverBar"};	};
+class bloodBagANEG {	type = "trade_items";	buy[] = {8,"ItemSilverBar"};	sell[] = {6,"ItemSilverBar"};	};
+class bloodBagAPOS {	type = "trade_items";	buy[] = {8,"ItemSilverBar"};	sell[] = {6,"ItemSilverBar"};	};
+class bloodBagBNEG {	type = "trade_items";	buy[] = {8,"ItemSilverBar"};	sell[] = {6,"ItemSilverBar"};	};
+class bloodBagBPOS {	type = "trade_items";	buy[] = {8,"ItemSilverBar"};	sell[] = {6,"ItemSilverBar"};	};
+class bloodBagABNEG {	type = "trade_items";	buy[] = {8,"ItemSilverBar"};	sell[] = {6,"ItemSilverBar"};	};
+class bloodBagABPOS {	type = "trade_items";	buy[] = {8,"ItemSilverBar"};	sell[] = {6,"ItemSilverBar"};	};
+class bloodBagOPOS {	type = "trade_items";	buy[] = {8,"ItemSilverBar"};	sell[] = {6,"ItemSilverBar"};	};
+class bloodTester {	type = "trade_items";	buy[] = {4,"ItemSilverBar"};	sell[] = {2,"ItemSilverBar"};	};
+class transfusionKit {	type = "trade_items";	buy[] = {4,"ItemSilverBar"};	sell[] = {2,"ItemSilverBar"};	};
+class emptyBloodBag {	type = "trade_items";	buy[] = {3,"ItemSilverBar"};	sell[] = {2,"ItemSilverBar"};	};
+class ItemBloodbag {	type = "trade_items";	buy[] = {8,"ItemSilverBar"};	sell[] = {4,"ItemSilverBar"};	};
+class ItemEpinephrine {	type = "trade_items";	buy[] = {4,"ItemSilverBar"};	sell[] = {2,"ItemSilverBar"};	};
+class ItemHeatPack {	type = "trade_items";	buy[] = {4,"ItemSilverBar"};	sell[] = {2,"ItemSilverBar"};	};
+class ItemMorphine {	type = "trade_items";	buy[] = {4,"ItemSilverBar"};	sell[] = {2,"ItemSilverBar"};	};
+class ItemPainkiller {	type = "trade_items";	buy[] = {4,"ItemSilverBar"};	sell[] = {2,"ItemSilverBar"};	};
+class equip_string {	type = "trade_items";	buy[] = {1,"ItemSilverBar"};	sell[] = {1,"ItemSilverBar"};	};
+class equip_gauze {	type = "trade_items";	buy[] = {1,"ItemSilverBar"};	sell[] = {1,"ItemSilverBar"};	};
+class equip_gauzepackaged {	type = "trade_items";	buy[] = {1,"ItemSilverBar"};	sell[] = {1,"ItemSilverBar"};	};
+class equip_rag {	type = "trade_items";	buy[] = {1,"ItemSilverBar"};	sell[] = {1,"ItemSilverBar"};	};
+class equip_herb_box {	type = "trade_items";	buy[] = {1,"ItemSilverBar"};	sell[] = {1,"ItemSilverBar"};	};
+};				

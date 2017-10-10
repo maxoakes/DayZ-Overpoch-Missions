@@ -1,0 +1,52 @@
+respawn = "BASE";
+respawnDelay = 0;
+respawnDialog = 0;
+onLoadMission = "DayZ Overpoch Taviana";
+OnLoadIntro = "Welcome to Taviana";
+OnLoadIntroTime = 0;
+OnLoadMissionTime = 0;
+disabledAI = 1;
+disableChannels[] = {0,2,6};
+enableItemsDropping = 0;
+onPauseScript = "";
+briefing = 0;
+debriefing = 0;
+
+titleParam1 = "AutoLogin:";
+valuesParam1[] = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 15, 20, 25, 30, 31};
+defValueParam1 = 10; //auto login time limit in seconds, set value to 31 to disable auto login
+textsParam1[] = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 15, 20, 25, 30, "Disabled"};
+
+//loadScreen = "\z\addons\dayz_code\gui\loadingscreen.paa";
+loadScreen = "overpoch1.jpg";
+
+class Header
+{
+	gameType = COOP;            //DM, Team, Coop, ...
+	minPlayers = 1;             //min # of players the mission supports
+	maxPlayers = 100;           //Max # of players the mission supports
+};
+
+aiKills = 1;
+diagRadio = 1;
+diagHit = 1;
+
+class CfgSounds
+{
+	sounds[] =
+	{
+		Radio_Message_Sound
+	};
+	class Radio_Message_Sound
+	{
+		name = "Radio_Message_Sound";
+		sound[] = {custom\remote\radio.ogg,0.4,1};
+		titles[] = {};
+	};
+};
+
+#include "\z\addons\dayz_code\gui\description.hpp"
+#include "CfgLoot\CfgLoot.hpp"
+//#include "\z\addons\dayz_code\Configs\CfgLoot\CfgLoot.hpp" //obsolete, as the dze-mission-loot var does not exist anymore
+#include "CfgServerTrader\CfgServerTrader.hpp"
+//#include "\z\addons\dayz_code\Configs\CfgServerTrader\CfgServerTrader.hpp"

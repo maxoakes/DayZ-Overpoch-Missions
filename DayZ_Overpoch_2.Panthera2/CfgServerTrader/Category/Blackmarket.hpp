@@ -1,0 +1,61 @@
+class Category_1001 {				
+class MeleeBaseBallBat {	type = "trade_weapons";	buy[] = {6,"ItemSilverBar"};	sell[] = {3,"ItemSilverBar"};	};
+class Makarov_SD_DZ {	type = "trade_weapons";	buy[] = {2,"ItemGoldBar"};	sell[] = {1,"ItemGoldBar"};	};
+class Saiga12K {	type = "trade_weapons";	buy[] = {4,"ItemGoldBar"};	sell[] = {3,"ItemGoldBar"};	};
+class AA12_PMC {	type = "trade_weapons";	buy[] = {8,"ItemGoldBar"};	sell[] = {5,"ItemGoldBar"};	};
+class m8_compact {	type = "trade_weapons";	buy[] = {7,"ItemGoldBar"};	sell[] = {5,"ItemGoldBar"};	};
+class m8_sharpshooter {	type = "trade_weapons";	buy[] = {7,"ItemGoldBar"};	sell[] = {5,"ItemGoldBar"};	};
+class m8_holo_sd {	type = "trade_weapons";	buy[] = {7,"ItemGoldBar"};	sell[] = {5,"ItemGoldBar"};	};
+class m8_carbine {	type = "trade_weapons";	buy[] = {7,"ItemGoldBar"};	sell[] = {5,"ItemGoldBar"};	};
+class M8_SAW {	type = "trade_weapons";	buy[] = {1,"ItemGoldBar10oz"};	sell[] = {8,"ItemGoldBar"};	};
+class SCAR_H_CQC_CCO {	type = "trade_weapons";	buy[] = {8,"ItemGoldBar"};	sell[] = {6,"ItemGoldBar"};	};
+class SCAR_H_CQC_CCO_SD {	type = "trade_weapons";	buy[] = {1,"ItemGoldBar10oz"};	sell[] = {6,"ItemGoldBar"};	};
+class SCAR_H_STD_EGLM_Spect {	type = "trade_weapons";	buy[] = {1,"ItemGoldBar10oz"};	sell[] = {6,"ItemGoldBar"};	};
+class MG36 {	type = "trade_weapons";	buy[] = {2,"ItemGoldBar10oz"};	sell[] = {9,"ItemGoldBar"};	};
+class MG36_camo {	type = "trade_weapons";	buy[] = {2,"ItemGoldBar10oz"};	sell[] = {9,"ItemGoldBar"};	};
+class M60A4_EP1_DZE {	type = "trade_weapons";	buy[] = {2,"ItemGoldBar10oz"};	sell[] = {9,"ItemGoldBar"};	};
+class m240_scoped_EP1_DZE {	type = "trade_weapons";	buy[] = {2,"ItemGoldBar10oz"};	sell[] = {1,"ItemGoldBar10oz"};	};
+class VSS_vintorez {	type = "trade_weapons";	buy[] = {1,"ItemGoldBar10oz"};	sell[] = {7,"ItemGoldBar"};	};
+class AKS_GOLD {	type = "trade_weapons";	buy[] = {-1,"ItemGoldBar"};	sell[] = {2,"ItemGoldBar10oz"};	};
+class KSVK_DZE {	type = "trade_weapons";	buy[] = {5,"ItemGoldBar10oz"};	sell[] = {2,"ItemGoldBar10oz"};	};
+class SVD_Gh_DZ {	type = "trade_weapons";	buy[] = {1,"ItemGoldBar10oz"};	sell[] = {7,"ItemGoldBar"};	};
+class M40A3_Gh_DZ {	type = "trade_weapons";	buy[] = {1,"ItemGoldBar10oz"};	sell[] = {7,"ItemGoldBar"};	};
+class AK_107_pso {	type = "trade_weapons";	buy[] = {7,"ItemGoldBar"};	sell[] = {5,"ItemGoldBar"};	};
+};				
+class Category_1002 {				
+class 8Rnd_B_Saiga12_74Slug {	type = "trade_items";	buy[] = {6,"ItemSilverBar"};	sell[] = {4,"ItemSilverBar"};	};
+class 8Rnd_B_Saiga12_Pellets {	type = "trade_items";	buy[] = {6,"ItemSilverBar"};	sell[] = {4,"ItemSilverBar"};	};
+class 20Rnd_B_AA12_Pellets {	type = "trade_items";	buy[] = {8,"ItemSilverBar"};	sell[] = {5,"ItemSilverBar"};	};
+class 20Rnd_B_AA12_74Slug {	type = "trade_items";	buy[] = {8,"ItemSilverBar"};	sell[] = {5,"ItemSilverBar"};	};
+class 30Rnd_556x45_Stanag {	type = "trade_items";	buy[] = {8,"ItemSilverBar"};	sell[] = {6,"ItemSilverBar"};	};
+class 30Rnd_556x45_StanagSD {	type = "trade_items";	buy[] = {8,"ItemSilverBar"};	sell[] = {6,"ItemSilverBar"};	};
+class 20Rnd_762x51_B_SCAR {	type = "trade_items";	buy[] = {8,"ItemSilverBar"};	sell[] = {6,"ItemSilverBar"};	};
+class 20Rnd_762x51_SB_SCAR {	type = "trade_items";	buy[] = {8,"ItemSilverBar"};	sell[] = {6,"ItemSilverBar"};	};
+class 100Rnd_556x45_BetaCMag {	type = "trade_items";	buy[] = {2,"ItemSilverBar10oz"};	sell[] = {1,"ItemSilverBar10oz"};	};
+class 100Rnd_762x51_M240 {	type = "trade_items";	buy[] = {3,"ItemGoldBar"};	sell[] = {3,"ItemGoldBar"};	};
+class 20Rnd_9x39_SP5_VSS {	type = "trade_items";	buy[] = {8,"ItemSilverBar"};	sell[] = {6,"ItemSilverBar"};	};
+class 10Rnd_9x39_SP5_VSS {	type = "trade_items";	buy[] = {4,"ItemSilverBar"};	sell[] = {3,"ItemSilverBar"};	};
+class 5Rnd_127x108_KSVK {	type = "trade_items";	buy[] = {6,"ItemGoldBar"};	sell[] = {5,"ItemGoldBar"};	};
+};				
+class Category_1003 {				
+class HandGrenade_west {	type = "trade_items";	buy[] = {5,"ItemGoldBar"};	sell[] = {2,"ItemGoldBar"};	};
+class HandGrenade_east {	type = "trade_items";	buy[] = {5,"ItemGoldBar"};	sell[] = {2,"ItemGoldBar"};	};
+class 1Rnd_HE_M203 {	type = "trade_items";	buy[] = {5,"ItemGoldBar"};	sell[] = {2,"ItemGoldBar"};	};
+class 1Rnd_HE_GP25 {	type = "trade_items";	buy[] = {5,"ItemGoldBar"};	sell[] = {2,"ItemGoldBar"};	};
+class PipeBomb {	type = "trade_items";	buy[] = {2,"ItemBriefcase100oz"};	sell[] = {3,"ItemGoldBar10oz"};	};
+};				
+class Category_1004 {				
+class Vil_CG_HEAT {	type = "trade_items";	buy[] = {2,"ItemGoldBar10oz"};	sell[] = {8,"ItemGoldBar"};	};
+class Vil_PG29_HEAT {	type = "trade_items";	buy[] = {2,"ItemGoldBar10oz"};	sell[] = {8,"ItemGoldBar"};	};
+class Vil_PGO_PG16 {	type = "trade_items";	buy[] = {2,"ItemGoldBar10oz"};	sell[] = {8,"ItemGoldBar"};	};
+class Vil_PGO_PG7VL {	type = "trade_items";	buy[] = {2,"ItemGoldBar10oz"};	sell[] = {8,"ItemGoldBar"};	};
+class Vil_PGOd_PG7VL {	type = "trade_items";	buy[] = {2,"ItemGoldBar10oz"};	sell[] = {8,"ItemGoldBar"};	};
+class Vil_PZF3_S_HEAT {	type = "trade_items";	buy[] = {2,"ItemGoldBar10oz"};	sell[] = {8,"ItemGoldBar"};	};
+class vil_RPG22 {	type = "trade_items";	buy[] = {2,"ItemGoldBar10oz"};	sell[] = {8,"ItemGoldBar"};	};
+class vil_RPG26 {	type = "trade_items";	buy[] = {2,"ItemGoldBar10oz"};	sell[] = {8,"ItemGoldBar"};	};
+class Vil_SHMEL_FTW {	type = "trade_items";	buy[] = {2,"ItemGoldBar10oz"};	sell[] = {8,"ItemGoldBar"};	};
+};				
+class Category_1053 {				
+class vil_CG84T {	type = "trade_weapons";	buy[] = {2,"ItemBriefcase100oz"};	sell[] = {3,"ItemGoldBar10oz"};	};
+class vil_Panzerfaust3 {	type = "trade_weapons";	buy[] = {2,"ItemBriefcase100oz"};	sell[] = {3,"ItemGoldBar10oz"};	};
+};				

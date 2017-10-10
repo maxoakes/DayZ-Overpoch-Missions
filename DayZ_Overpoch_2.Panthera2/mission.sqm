@@ -1,0 +1,574 @@
+version=11;
+class Mission
+{
+	addOns[]=
+	{
+		"ibr_panthera2",
+		"map_eu",
+		"ca_modules_animals",
+		"dayz_anim",
+		"dayz_code",
+		"dayz_communityassets",
+		"dayz_weapons",
+		"dayz_equip",
+		"cacharacters_pmc",
+		"ca_modules_functions",
+		"dayz_epoch",
+		"warfarebuildings",
+		"ind_tank",
+		"camisc_e",
+		"glt_m300t",
+		"pook_h13",
+		"csj_gyroac",
+		"jetskiyanahuiaddon",
+		"redryder",
+		"Anzio_20",
+		
+		"mbg_buildings_3",
+		"mbg_killhouses",
+		"aif_arma1buildings",
+		"mbg_african_buildings",
+		"gms_k98",
+		"RH_m14",
+		"FHQ_Remington",
+		"FHQ_Remington_ammo",
+		"FHQ_Remington_msr",
+		"FHQ_Remington_xm2010",
+		"FHQ_Remington_acr",
+		"FHQ_Remington_rsass",
+		"VILAS_WWP",
+		"VILAS_RW_Forces",
+		"VILAS_WWP_CO",
+		"VILAS_RW_Forces_CO",
+		"ddopp_taserpack",
+		"smk_anims_lite",
+		"MicroAirVehicles",
+		"oz_is_objects",
+		"monaro",
+		"gsc_units_stalker_patch",
+		"american_law_enforcement",
+		"CYBP_Camels_Config",
+		"nissan_350z",
+		"ussr_cheytac",
+		"bb_mercenary",
+		"goosuksf",
+		"frb"
+	};
+	addOnsAuto[]=
+	{
+		"dayz_weapons",
+		"ca_modules_functions",
+		"warfarebuildings",
+		"ibr_panthera2"
+	};
+	randomSeed=11171215;
+	class Intel
+	{
+		briefingName="DayZ Epoch Panthera";
+		briefingDescription="Version 1.0.6.1";
+		startWeather=0;
+		forecastWeather=0;
+		year=2008;
+		month=6;
+		day=1;
+		hour=12;
+	};
+	class Groups
+	{
+		items=2;
+		class Item0
+		{
+			side="WEST";
+			class Vehicles
+			{
+				items=100;
+#define PLRDEF position[]={5134,1,-3091};azimut=0;side="WEST";vehicle="Survivor1_DZ";skill=0.6;init="this enableSimulation false;this allowDamage false;this disableAI 'FSM';this disableAI 'ANIM';this disableAI 'MOVE';";player="PLAY CDG";
+				class Item0{id=0;PLRDEF};
+				class Item1
+				{
+					position[]={5134,1,-3091};
+					azimut=0;
+					id=0;
+					side="WEST";
+					vehicle="Survivor1_DZ";
+					player="PLAYER COMMANDER";
+					leader=1;
+					rank="SERGEANT";
+					skill=0.6;
+					init="this enableSimulation false;this allowDamage false;this disableAI 'FSM';this disableAI 'ANIM';this disableAI 'MOVE';";
+				};
+				class Item2{id=2;PLRDEF};
+				class Item3{id=3;PLRDEF};
+				class Item4{id=4;PLRDEF};
+				class Item5{id=5;PLRDEF};
+				class Item6{id=6;PLRDEF};
+				class Item7{id=7;PLRDEF};
+				class Item8{id=8;PLRDEF};
+				class Item9{id=9;PLRDEF};
+				class Item10{id=10;PLRDEF};
+				class Item11{id=11;PLRDEF};
+				class Item12{id=12;PLRDEF};
+				class Item13{id=13;PLRDEF};
+				class Item14{id=14;PLRDEF};
+				class Item15{id=15;PLRDEF};
+				class Item16{id=16;PLRDEF};
+				class Item17{id=17;PLRDEF};
+				class Item18{id=18;PLRDEF};
+				class Item19{id=19;PLRDEF};
+				class Item20{id=20;PLRDEF};
+				class Item21{id=21;PLRDEF};
+				class Item22{id=22;PLRDEF};
+				class Item23{id=23;PLRDEF};
+				class Item24{id=24;PLRDEF};
+				class Item25{id=25;PLRDEF};
+				class Item26{id=26;PLRDEF};
+				class Item27{id=27;PLRDEF};
+				class Item28{id=28;PLRDEF};
+				class Item29{id=29;PLRDEF};
+				class Item30{id=30;PLRDEF};
+				class Item31{id=31;PLRDEF};
+				class Item32{id=32;PLRDEF};
+				class Item33{id=33;PLRDEF};
+				class Item34{id=34;PLRDEF};
+				class Item35{id=35;PLRDEF};
+				class Item36{id=36;PLRDEF};
+				class Item37{id=37;PLRDEF};
+				class Item38{id=38;PLRDEF};
+				class Item39{id=39;PLRDEF};
+				class Item40{id=40;PLRDEF};
+				class Item41{id=41;PLRDEF};
+				class Item42{id=42;PLRDEF};
+				class Item43{id=43;PLRDEF};
+				class Item44{id=44;PLRDEF};
+				class Item45{id=45;PLRDEF};
+				class Item46{id=46;PLRDEF};
+				class Item47{id=47;PLRDEF};
+				class Item48{id=48;PLRDEF};
+				class Item49{id=49;PLRDEF};
+				class Item50{id=50;PLRDEF};
+				class Item51{id=51;PLRDEF};
+				class Item52{id=52;PLRDEF};
+				class Item53{id=53;PLRDEF};
+				class Item54{id=54;PLRDEF};
+				class Item55{id=55;PLRDEF};
+				class Item56{id=56;PLRDEF};
+				class Item57{id=57;PLRDEF};
+				class Item58{id=58;PLRDEF};
+				class Item59{id=59;PLRDEF};
+				class Item60{id=60;PLRDEF};
+				class Item61{id=61;PLRDEF};
+				class Item62{id=62;PLRDEF};
+				class Item63{id=63;PLRDEF};
+				class Item64{id=64;PLRDEF};
+				class Item65{id=65;PLRDEF};
+				class Item66{id=66;PLRDEF};
+				class Item67{id=67;PLRDEF};
+				class Item68{id=68;PLRDEF};
+				class Item69{id=69;PLRDEF};
+				class Item70{id=70;PLRDEF};
+				class Item71{id=71;PLRDEF};
+				class Item72{id=72;PLRDEF};
+				class Item73{id=73;PLRDEF};
+				class Item74{id=74;PLRDEF};
+				class Item75{id=75;PLRDEF};
+				class Item76{id=76;PLRDEF};
+				class Item77{id=77;PLRDEF};
+				class Item78{id=78;PLRDEF};
+				class Item79{id=79;PLRDEF};
+				class Item80{id=80;PLRDEF};
+				class Item81{id=81;PLRDEF};
+				class Item82{id=82;PLRDEF};
+				class Item83{id=83;PLRDEF};
+				class Item84{id=84;PLRDEF};
+				class Item85{id=85;PLRDEF};
+				class Item86{id=86;PLRDEF};
+				class Item87{id=87;PLRDEF};
+				class Item88{id=88;PLRDEF};
+				class Item89{id=89;PLRDEF};
+				class Item90{id=90;PLRDEF};
+				class Item91{id=91;PLRDEF};
+				class Item92{id=92;PLRDEF};
+				class Item93{id=93;PLRDEF};
+				class Item94{id=94;PLRDEF};
+				class Item95{id=95;PLRDEF};
+				class Item96{id=96;PLRDEF};
+				class Item97{id=97;PLRDEF};
+				class Item98{id=98;PLRDEF};
+				class Item99{id=99;PLRDEF};
+			};
+		};
+		class Item1
+		{
+			side="LOGIC";
+			class Vehicles
+			{
+				items=1;
+				class Item0
+				{
+					position[]={-144,0,2320};
+					id=50;
+					side="LOGIC";
+					vehicle="FunctionsManager";
+					leader=1;
+					lock="UNLOCKED";
+					skill=0.6;
+				};
+			};
+		};
+	};
+	class Markers
+	{
+		items=26;
+		class Item0
+		{
+			position[]={5192,62,4994};
+			name="center";
+			type="Empty";
+			a=6000;b=6000;
+		};
+		class Item1
+		{
+			position[]={5133,0,-3091};
+			name="respawn_west";
+			type="Empty";
+		};
+		class Item2
+		{
+			position[]={1725,1,5462};
+			name="spawn0";
+			type="Empty";
+		};
+		class Item3
+		{
+			position[]={1639,0,4349};
+			name="spawn1";
+			type="Empty";
+		};
+		class Item4
+		{
+			position[]={5896,4,1669};
+			name="spawn2";
+			type="Empty";
+		};
+		class Item5
+		{
+			position[]={8744,16,2248};
+			name="spawn3";
+			type="Empty";
+		};
+		class Item6
+		{
+			position[]={2453,7,6910};
+			name="spawn4";
+			type="Empty";
+		};
+		class Item7
+		{
+			position[]={3249,6,2555};
+			name="spawn5";
+			type="Empty";
+		};
+		class Item8
+		{
+			position[]={4114,107,3820};
+			name="spawn6";
+			type="Empty";
+		};
+		class Item9
+		{
+			position[]={1876,1,2839};
+			name="spawn7";
+			type="Empty";
+		};
+		class Item10
+		{
+			position[]={7988,1,6807};
+			name="spawn8";
+			type="Empty";
+		};
+		class Item11
+		{
+			position[]={8818,9,5908};
+			name="spawn9";
+			type="Empty";
+		};
+		class Item12
+		{
+			position[]={6116,31,3811};
+			name="spawn10";
+			type="Empty";
+		};
+		class Item13
+		{
+			position[]={5192,62,4994};
+			name="crashsites";
+			type="Empty";
+			a=6000;b=6000;
+		};
+		class Item14
+		{
+			position[]={5192,62,4994};
+			name="carepackages";
+			type="Empty";
+			a=6000;b=0;
+		};
+		class Item15
+		{
+			position[]={4763,3,7484};
+			name="AirVehiclesF";
+			text="AWOL's Airfield";
+			type="mil_dot";
+			colorName="ColorGreen";
+		};
+		class Item16
+		{
+			position[]={5232,1,8228};
+			name="WholesalerNorth";
+			text="North's Wholesaler";
+			type="mil_dot";
+			colorName="ColorBlack";
+		};
+		class Item17
+		{
+			position[]={9056,9,4073};
+			name="HeroVehicles";
+			text="Darren's Hero Vehicles";
+			type="mil_triangle";
+			colorName="ColorBlue";
+		};
+		class Item18
+		{
+			position[]={1891,5,3611};
+			name="NeutralAirVehicles";
+			text="Bandit Trader";
+			type="mil_dot";
+			colorName="ColorRed";
+		};
+		class Item19
+		{
+			position[]={3349,1,2311};
+			name="Boats";
+			text="Sams Boats";
+			type="mil_triangle";
+			colorName="ColorBlack";
+		};
+		class Item20
+		{
+			position[]={8687,7,3137};
+			name="NeutralTraders";
+			text="Trader City Selca";
+			type="mil_circle";
+			colorName="ColorBrown";
+		};
+		class Item21
+		{
+			position[]={4422,21,1629};
+			name="NeutralTraderCity2";
+			text="Trader City Pikia";
+			type="mil_circle";
+			colorName="ColorBrown";
+		};
+		class Item22
+		{
+			position[]={7224,8,727};
+			name="WholesaleSouth";
+			text="South's Wholesaler";
+			type="mil_dot";
+			colorName="ColorBlack";
+		};
+		class Item23
+		{
+			position[]={4338,101,6317};
+			name="PlanicaTraders";
+			text="Trader City Planica";
+			type="mil_circle";
+			colorName="ColorBrown";
+		};
+		class Item24
+		{
+			position[]={2247,35,9473};
+			name="IslandVehiclePartsVendors";
+			text="Mello Vehicle/Parts Vendors";
+			type="mil_circle";
+			colorName="ColorBrown";
+		};
+		class Item25
+		{
+			position[]={3804,-1,7656};
+			name="Boat2";
+			text="North Boat Vendor";
+			type="mil_dot";
+			colorName="ColorBlack";
+		};
+	};
+	class Sensors
+	{
+		items=11;
+#define TRGDEF a=100;b=100;activationBy="WEST";repeating=1;interruptable=1;age="UNKNOWN";class Effects{};
+		class Item0
+		{
+			position[]={4419,22,1629};
+			TRGDEF
+			name="TraderCity1";
+			expCond="(player distance TraderCity1) < 100;";
+			expActiv="[""trader city Pikla"",true,""enter""] call player_traderCity;";
+			expDesactiv="[""trader city Pikla"",true,""leave""] call player_traderCity;";
+		};
+		class Item1
+		{
+			position[]={8688,7,3129};
+			TRGDEF
+			name="TraderCity2";
+			expCond="(player distance TraderCity2) < 100;";
+			expActiv="[""trader city Selca"",true,""enter""] call player_traderCity;";
+			expDesactiv="[""trader city Selca"",true,""leave""] call player_traderCity;";
+		};
+		class Item2
+		{
+			position[]={9051,9,4073};
+			TRGDEF
+			name="HeroVendors";
+			expCond="(player distance HeroVendors) < 100;";
+			expActiv="[""Hero Trader Camp"",true,""enter""] call player_traderCity;";
+			expDesactiv="[""Hero Trader Camp"",true,""leave""] call player_traderCity;";
+		};
+		class Item3
+		{
+			position[]={7207,6,735};
+			TRGDEF
+			name="WholeSaler1";
+			expCond="(player distance WholeSaler1) < 100;";
+			expActiv="[""South's Wholesale"",true,""enter""] call player_traderCity;";
+			expDesactiv="[""South's Wholesale"",true,""leave""] call player_traderCity;";
+		};
+		class Item4
+		{
+			position[]={1891,4,3603};
+			TRGDEF
+			name="BanditTrader";
+			expCond="(player distance BanditTrader) < 100;";
+			expActiv="[""Bandit Camp"",true,""enter""] call player_traderCity;";
+			expDesactiv="[""Bandit Camp"",true,""leave""] call player_traderCity;";
+		};
+		class Item5
+		{
+			position[]={4763,3,7481};
+			TRGDEF
+			name="AWOLsAirField";
+			expCond="(player distance AWOLsAirField) < 100;";
+			expActiv="[""AWOLs Airfield"",true,""enter""] call player_traderCity;";
+			expDesactiv="[""AWOLs Airfield"",true,""leave""] call player_traderCity;";
+		};
+		class Item6
+		{
+			position[]={5228,2,8230};
+			TRGDEF
+			name="Wholesaler2";
+			expCond="(player distance Wholesaler2) < 100;";
+			expActiv="[""West's Wholesale"",true,""enter""] call player_traderCity;";
+			expDesactiv="[""West's Wholesale"",true,""leave""] call player_traderCity;";
+		};
+		class Item7
+		{
+			position[]={3352,0,2302};
+			TRGDEF
+			name="BoatVendor";
+			expCond="(player distance BoatVendor) < 100;";
+			expActiv="[""Sams Boat Vendor"",true,""enter""] call player_traderCity;";
+			expDesactiv="[""Sams Boat Vendor"",true,""leave""] call player_traderCity;";
+		};
+		class Item8
+		{
+			position[]={4338,101,6317};
+			TRGDEF
+			name="PlanicaTraders";
+			expCond="(player distance PlanicaTraders) < 100;";
+			expActiv="[""trader city Planica"",true,""enter""] call player_traderCity;";
+			expDesactiv="[""trader city Planica"",true,""leave""] call player_traderCity;";
+		};
+		class Item9
+		{
+			position[]={2243,35,9479};
+			TRGDEF
+			name="MelloVehicleRepair";
+			expCond="(player distance MelloVehicleRepair) < 100;";
+			expActiv="[""Mello"",true,""enter""] call player_traderCity;";
+			expDesactiv="[""Mello"",true,""leave""] call player_traderCity;";
+		};
+		class Item10
+		{
+			position[]={3807,0,7661};
+			TRGDEF
+			name="BOAT12";
+			expCond="(player distance BOAT12) < 100;";
+			expActiv="[""North Boat Vendor"",true,""enter""] call player_traderCity;";
+			expDesactiv="[""North Boat Vendor"",true,""leave""] call player_traderCity;";
+		};
+	};
+};
+class Intro
+{
+	addOns[]=
+	{
+		"ibr_panthera2"
+	};
+	addOnsAuto[]=
+	{
+		"ibr_panthera2"
+	};
+	randomSeed=6913869;
+	class Intel
+	{
+		startWeather=0;
+		forecastWeather=0;
+		year=2008;
+		month=10;
+		day=11;
+		hour=9;
+		minute=20;
+	};
+};
+class OutroWin
+{
+	addOns[]=
+	{
+		"ibr_panthera2"
+	};
+	addOnsAuto[]=
+	{
+		"ibr_panthera2"
+	};
+	randomSeed=4081731;
+	class Intel
+	{
+		startWeather=0;
+		forecastWeather=0;
+		year=2008;
+		month=10;
+		day=11;
+		hour=9;
+		minute=20;
+	};
+};
+class OutroLoose
+{
+	addOns[]=
+	{
+		"ibr_panthera2"
+	};
+	addOnsAuto[]=
+	{
+		"ibr_panthera2"
+	};
+	randomSeed=4975929;
+	class Intel
+	{
+		startWeather=0;
+		forecastWeather=0;
+		year=2008;
+		month=10;
+		day=11;
+		hour=9;
+		minute=20;
+	};
+};

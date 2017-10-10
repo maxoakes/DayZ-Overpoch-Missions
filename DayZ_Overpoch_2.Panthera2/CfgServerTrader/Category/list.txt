@@ -1,0 +1,42 @@
+// Hero
+[["Ammunition",1063],["Clothes",1065],["Helicopter Armed",1068],["Military Armed",1069],["Trucks Armed",1070],["Weapons",1066]],
+
+//Bandit
+[["Ammunition",1063],["Clothes",1064],["Helicopter Armed",1068],["Military Armed",1069],["Trucks Armed",1070],["Weapons",1066]],
+
+//Ammunition 
+[["Assault Rifle Ammo",1055],["Light Machine Gun Ammo",1056],["Pistol Ammo",1057],["Shotguns and Single-shot Ammo",1058],["Sniper Rifle Ammo",1059],
+["Submachine Gun Ammo",1060],["(OW) Civilian Ammo",1061],["(OW) Military Ammo",1062]],
+
+//Weapons
+[["Attachments",1032],["Assault Rifle",1033],["Light Machine Gun",1034],["Pistols",1035],["Shotguns and Single-shot",1036],
+["Sniper Rifle",1037],["Submachine Guns",1038],["(OW) Pistols",1039],["(OW) Eastern Rifles",1040],["(OW) HK416 Variants",1041],
+["(OW) HK417 Variants",1042],["(OW) TAR Variants",1043],["(OW) MAS Variants",1044],["(OW) Bushmaster ACR Variants",1045],
+["(OW) ACR Wildland Variants",1046],["(OW) ACR Black Variants",1047],["(OW) ACR Tan Variants",1048],["(OW) ACR Snow Variants",1049],
+["(OW) Assault Rifles",1050],["(OW) Sniper Rifles",1051],["(OW) LMGs",1052],["(OW) SMGs",1054]],
+
+//Vehicles
+[["Bikes and ATV",1005],["Buses and Vans",1006],["Cargo Trucks",1007],["Fuel Trucks",1008],
+["Military Unarmed",1009],["Trucks",1010],["Used Cars",1011],["Utility Vehicles",1012],["(OW) Cars",1013],["(OW) Cop Cars",1014]],
+
+//General Store
+[["Backpacks",1020],["Clothes",1021],["Cooked Meats",1022],["Drinks",1023],["Packaged Food",1024]],
+	
+//Building/Parts
+[["Building Supplies",1028],["Tools",1029],["Vehicle Parts",1030]],
+
+//Aircraft
+[["Airplanes",1015],["Helicopter Unarmed",1016],["(OW) Air Vehicles",1017]],
+
+//Black Market
+menu_Soldier_PMC = [
+[["Black Market Weapons",1001],["Black Market Ammo",1002],["Explosives",1003],["(OW) Launchers",1053],["(OW) Rockets",1004]],
+
+//Medical 
+[["Chem-lites/Flares",1025],["Smoke Grenades",1026],["Medical Supplies",1027]],
+
+//Wholesaler
+[["Wholesale",1031]],
+
+//Boat
+[["Boats Armed",1018],["Boats Unarmed",1019]],
