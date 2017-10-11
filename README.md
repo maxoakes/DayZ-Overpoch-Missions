@@ -26,7 +26,6 @@ One User config folder. In this includes the config.cfg, server.cfg, server logs
 
 Now that @DayZ_Epoch, @DayZOverwatch, @panthera, @DayZ_Epoch_Server, your user config folder, and a few extra .dlls are in your server root folder, you have what you need.
 
-```
 1. If you want to use the Epoch server files in this repo that include WAI missions, remove the default @DayZ_Epoch_Server that came with the download from the Epoch website, and replace it with the one in this repo. Now the mission can technically be ran without errors from the epoch server files.
 2. Now to establish a connection to your SQL server. Find HiveExt.ini in your user config folder and find the lines that say 'Database = ', 'Username = ', and 'Password = '. Change them accordingly.
 3a. Create a database. I used MySQL workbench.
