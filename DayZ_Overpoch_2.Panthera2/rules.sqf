@@ -3,11 +3,11 @@ private ["_messages","_timeout"];
 _messages = [
 	["DayZ Epoch", "Welcome "+(name player)],
 	["World", worldName],
-	["Teamspeak", "ts.ckwgaming.com"],
-	["Website", "ckwgaming.com"],
+	["Teamspeak", "your teampseak address"],
+	["Website", "your website address"],
 	["Server Rules", "Duping, glitching, hacking and other forms of cheating are bannable offenses."],
 	["Server Rules", "Report cheating to admin on Teamspeak, or make a thread on the forums."],
-	["Server Rules", "No spamming side/global voice chat. No racist rants."],
+	["Server Rules", "No spamming side/global voice chat. No racism."],
 	["Server Rules", "Do not kill those in safe zones or those that are just leaving them."],
 	["Server Rules", "Everything else is fair game. Enjoy."]
 ];
